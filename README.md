@@ -1,3 +1,4 @@
 # hello-world
 just another repository
-Sound engineering 
+
+music is a big part of my life
